@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "33c1cf5ad36caa69",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceb376061f2f1540",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44417fb5a604822e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anthology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anthology"
+            }
+          },
+          {
+            "id": "c005539b048101f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I. Cosmic Themes & Spiritual Warfare/10. Deliverance; The Kingdom Reality of Freedom in Christ.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Deliverance; The Kingdom Reality of Freedom in Christ"
+            }
+          },
+          {
+            "id": "2b7d8155b988c468",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anthology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anthology"
+            }
+          },
+          {
+            "id": "03d4e87e9f4ba1d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "V. Shepherding Themes/37. The Beatitudes; The Way of the Kingdom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "37. The Beatitudes; The Way of the Kingdom"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6befc850623b679",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf7f39c9ee09d0af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22cd50c461b58b14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a2fcf10ddbd9a014",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "84542903e8974a66",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "right": {
+    "id": "1f20d5a15bf1eb83",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d010d5f97079f51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21394fc863361b17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "38fd1ea99fb4a300",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "291714df62293bbd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "98abba0f94d72a76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "03d4e87e9f4ba1d0",
+  "lastOpenFiles": [
+    "VI. Restoration & Eschatology/50. The Better Side of Understanding.md",
+    "I. Cosmic Themes & Spiritual Warfare/5. The Authority of the Believer.md",
+    "V. Shepherding Themes/45. Christianity’s Goal.md",
+    "Why this format.md",
+    "Anthology.md",
+    "Mountains.md",
+    "I. Cosmic Themes & Spiritual Warfare/10. Deliverance; The Kingdom Reality of Freedom in Christ.md",
+    "I. Cosmic Themes & Spiritual Warfare/1. The War in Heaven & the Birth of the Messiah.md",
+    "V. Shepherding Themes/43. Emotional Wisdom.md",
+    "II. Apostolic Themes/10. The Gospel of the Kingdom.md",
+    "II. Apostolic Themes/9. The Apostolic Foundation.md",
+    "I. Cosmic Themes & Spiritual Warfare/9. The Authority of the Name of Jesus.md",
+    "I. Cosmic Themes & Spiritual Warfare/7. The Restoration of All Things.md",
+    "I. Cosmic Themes & Spiritual Warfare/8. Signs of the End; Fulfilled, Yet Unfolding.md",
+    "I. Cosmic Themes & Spiritual Warfare/6. The Kingdom of Light vs. the Kingdom of Darkness.md",
+    "V. Shepherding Themes/44. Purity; The Absence of Malice & the Fullness of Christlikeness.md",
+    "III. Prophetic Themes/26. Dreams & Visions.md",
+    "III. Prophetic Themes/25. Knowing the Times and Seasons.md",
+    "V. Shepherding Themes/42. A Safe Space & The Weight of Decision-Making.md",
+    "IV. Redemptive Themes/33. Jesus as God’s Word.md",
+    "V. Shepherding Themes/41. Honoring; A Kingdom Culture of Recognition, Submission, and Love.md",
+    "II. Apostolic Themes/17. Foreknowledge vs. Predetermination.md",
+    "VI. Restoration & Eschatology/49. The Resurrection of the Dead; The Final Victory Over Death.md",
+    "VI. Restoration & Eschatology/48. The True Blessed Hope; Christ’s Consummation, Not Escape.md",
+    "VI. Restoration & Eschatology/47. The Bride’s Final Cry; ‘Come, Lord Jesus’.md",
+    "VI. Restoration & Eschatology/46. The New Jerusalem & The Eternal City.md",
+    "VI. Restoration & Eschatology",
+    "V. Shepherding Themes",
+    "IV. Redemptive Themes",
+    "III. Prophetic Themes",
+    "II. Apostolic Themes",
+    "I. Cosmic Themes & Spiritual Warfare"
+  ]
+}
