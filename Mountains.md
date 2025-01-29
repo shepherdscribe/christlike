@@ -78,16 +78,7 @@ Now, we live between **two mountains**:
 
 **Until then, we walk in faith—knowing that whether we are on the mountain or in the valley, God is always with us.**
 
-4o
-
-##### You said:
-
-Make all of this a sermon.
-
-###### ChatGPT said:
-
-ChatGPT
-
+---
 ### **Sermon: The God of Mountains and Valleys – From Eden to the New Creation**
 
 #### **Introduction**
