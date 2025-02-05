@@ -8,63 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44417fb5a604822e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anthology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anthology"
-            }
-          },
-          {
-            "id": "c005539b048101f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "I. Cosmic Themes & Spiritual Warfare/10. Deliverance; The Kingdom Reality of Freedom in Christ.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10. Deliverance; The Kingdom Reality of Freedom in Christ"
-            }
-          },
-          {
-            "id": "2b7d8155b988c468",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anthology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anthology"
-            }
-          },
-          {
             "id": "03d4e87e9f4ba1d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Sessions/Honoring.md",
-                "mode": "source",
+                "file": "V. Shepherding Themes/36. Holiness, The Beauty of a Set-Apart Life.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Honoring"
+              "title": "36. Holiness, The Beauty of a Set-Apart Life"
+            }
+          },
+          {
+            "id": "1fe3d308b0cddf5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 Sessions/02 Friendship.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 Friendship"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -205,35 +178,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03d4e87e9f4ba1d0",
+  "active": "1fe3d308b0cddf5f",
   "lastOpenFiles": [
+    "001 Sessions/01 Honoring.md",
+    "001 Sessions/02 Friendship.md",
+    "V. Shepherding Themes/45. Christianity’s Goal; Friendship.md",
+    "V. Shepherding Themes/33. The Shepherd & The Sheep.md",
+    "V. Shepherding Themes/40. Faith That Moves Mountains.md",
     "V. Shepherding Themes/41. Honoring; A Kingdom Culture of Recognition, Submission, and Love.md",
-    "001 Sessions/Honoring.md",
-    "001 Sessions",
-    "II. Apostolic Themes/9. The Apostolic Foundation.md",
-    "Mountains.md",
-    "I. Cosmic Themes & Spiritual Warfare/9. The Authority of the Name of Jesus.md",
-    "I. Cosmic Themes & Spiritual Warfare/10. Deliverance; The Kingdom Reality of Freedom in Christ.md",
-    "I. Cosmic Themes & Spiritual Warfare/8. Signs of the End; Fulfilled, Yet Unfolding.md",
-    "I. Cosmic Themes & Spiritual Warfare/7. The Restoration of All Things.md",
-    "I. Cosmic Themes & Spiritual Warfare/6. The Kingdom of Light vs. the Kingdom of Darkness.md",
-    "I. Cosmic Themes & Spiritual Warfare/5. The Authority of the Believer.md",
-    "I. Cosmic Themes & Spiritual Warfare/4. The Armor of God & Spiritual Readiness.md",
     "I. Cosmic Themes & Spiritual Warfare/3. The Angelic Watchers & the Battle for Mankind.md",
     "I. Cosmic Themes & Spiritual Warfare/2. The Ancient Serpent's Defeat.md",
     "I. Cosmic Themes & Spiritual Warfare/1. The War in Heaven & the Birth of the Messiah.md",
-    "V. Shepherding Themes/37. The Beatitudes; The Way of the Kingdom.md",
-    "VI. Restoration & Eschatology/50. The Better Side of Understanding.md",
-    "V. Shepherding Themes/45. Christianity’s Goal.md",
-    "Why this format.md",
-    "Anthology.md",
+    "002 Kingdom Culture/Servanthood; The Greatest in the Kingdom is the Least.md",
     "V. Shepherding Themes/43. Emotional Wisdom.md",
-    "II. Apostolic Themes/10. The Gospel of the Kingdom.md",
-    "V. Shepherding Themes/44. Purity; The Absence of Malice & the Fullness of Christlikeness.md",
-    "III. Prophetic Themes/26. Dreams & Visions.md",
-    "III. Prophetic Themes/25. Knowing the Times and Seasons.md",
     "V. Shepherding Themes/42. A Safe Space & The Weight of Decision-Making.md",
-    "IV. Redemptive Themes/33. Jesus as God’s Word.md",
+    "II. Apostolic Themes/9. The Apostolic Foundation.md",
+    "I. Cosmic Themes & Spiritual Warfare/10. Deliverance; The Kingdom Reality of Freedom in Christ.md",
+    "I. Cosmic Themes & Spiritual Warfare/9. The Authority of the Name of Jesus.md",
+    "I. Cosmic Themes & Spiritual Warfare/8. Signs of the End; Fulfilled, Yet Unfolding.md",
+    "I. Cosmic Themes & Spiritual Warfare/6. The Kingdom of Light vs. the Kingdom of Darkness.md",
+    "I. Cosmic Themes & Spiritual Warfare/4. The Armor of God & Spiritual Readiness.md",
+    "I. Cosmic Themes & Spiritual Warfare/5. The Authority of the Believer.md",
+    "V. Shepherding Themes/37. The Beatitudes; The Way of the Kingdom.md",
+    "002 Kingdom Culture",
+    "V. Shepherding Themes/36. Holiness, The Beauty of a Set-Apart Life.md",
+    "V. Shepherding Themes/38. The Discipline of the Lord.md",
+    "More topics.md",
+    "001 Sessions",
+    "Mountains.md",
+    "I. Cosmic Themes & Spiritual Warfare/7. The Restoration of All Things.md",
+    "VI. Restoration & Eschatology/50. The Better Side of Understanding.md",
     "VI. Restoration & Eschatology",
     "V. Shepherding Themes",
     "IV. Redemptive Themes",
