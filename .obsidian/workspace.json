@@ -34,37 +34,9 @@
               "icon": "lucide-file",
               "title": "28. Spirit"
             }
-          },
-          {
-            "id": "e612bf18ff72c02d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "III. Prophetic Themes/29. Awareness.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "29. Awareness"
-            }
-          },
-          {
-            "id": "3637fd0c4111a0bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "II. Apostolic Themes/23. Legacy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "23. Legacy"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,15 +178,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3637fd0c4111a0bd",
+  "active": "1fe3d308b0cddf5f",
   "lastOpenFiles": [
+    "III. Prophetic Themes/29. Awareness.md",
+    "II. Apostolic Themes/19. Bloodline.md",
+    "II. Apostolic Themes/20. Unity.md",
+    "II. Apostolic Themes/21. Boldness.md",
     "II. Apostolic Themes/22. Resurrection.md",
     "II. Apostolic Themes/23. Legacy.md",
-    "II. Apostolic Themes/21. Boldness.md",
+    "I. Cosmic Themes & Spiritual Warfare/6. The Kingdom of Light vs. the Kingdom of Darkness.md",
+    "I. Cosmic Themes & Spiritual Warfare/11. The Spirit is the Substance.md",
+    "II. Apostolic Themes/18. The Authority of the Believer.md",
     "II. Apostolic Themes/15. The Apostolic Call to Endure Persecution.md",
     "II. Apostolic Themes/16. The Book of Acts & the Spirit-Filled Church.md",
-    "II. Apostolic Themes/20. Unity.md",
-    "II. Apostolic Themes/19. Bloodline.md",
     "II. Apostolic Themes/17. Foreknowledge vs. Predetermination.md",
     "II. Apostolic Themes/14. The Fivefold Ministry & Church Maturity.md",
     "II. Apostolic Themes/13. Paul’s Revelation of the Mystery.md",
@@ -225,15 +201,11 @@
     "III. Prophetic Themes/32. Authenticity.md",
     "III. Prophetic Themes/31. Community.md",
     "III. Prophetic Themes/30. Purpose.md",
-    "III. Prophetic Themes/29. Awareness.md",
     "III. Prophetic Themes/28. Spirit.md",
     "III. Prophetic Themes/27. Watchmen.md",
     "III. Prophetic Themes/26. Dreams & Visions.md",
     "III. Prophetic Themes/18. Dreams & Visions in the Last Days.md",
     "III. Prophetic Themes/19. The Mantle of Elijah.md",
-    "III. Prophetic Themes/17. The Voice of the Lord.md",
-    "V. Shepherding Themes/36. Holiness, The Beauty of a Set-Apart Life.md",
-    "V. Shepherding Themes/37. The Beatitudes; The Way of the Kingdom.md",
     "VII. Parables",
     "002 Kingdom Culture",
     "001 Sessions",
