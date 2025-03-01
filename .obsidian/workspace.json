@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ceb376061f2f1540",
+        "id": "4705afa4d334fdca",
         "type": "tabs",
         "children": [
           {
-            "id": "03d4e87e9f4ba1d0",
+            "id": "137a88f3387a01d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "V. Shepherding Themes/36. Holiness, The Beauty of a Set-Apart Life.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "36. Holiness, The Beauty of a Set-Apart Life"
-            }
-          },
-          {
-            "id": "1fe3d308b0cddf5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "II. Apostolic Themes/23. Legacy.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "23. Legacy"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fe3d308b0cddf5f",
+  "active": "137a88f3387a01d0",
   "lastOpenFiles": [
+    "V. Shepherding Themes/43. Emotional Wisdom.md",
+    "II. Apostolic Themes/23. Legacy.md",
     "II. Apostolic Themes/22. Resurrection.md",
     "II. Apostolic Themes/21. Boldness.md",
     "II. Apostolic Themes/20. Unity.md",
@@ -187,7 +170,6 @@
     "I. Cosmic Themes & Spiritual Warfare/11. The Spirit is the Substance.md",
     "III. Prophetic Themes/28. Spirit.md",
     "III. Prophetic Themes/29. Awareness.md",
-    "II. Apostolic Themes/23. Legacy.md",
     "I. Cosmic Themes & Spiritual Warfare/6. The Kingdom of Light vs. the Kingdom of Darkness.md",
     "II. Apostolic Themes/18. The Authority of the Believer.md",
     "II. Apostolic Themes/15. The Apostolic Call to Endure Persecution.md",
@@ -205,7 +187,6 @@
     "III. Prophetic Themes/27. Watchmen.md",
     "III. Prophetic Themes/26. Dreams & Visions.md",
     "III. Prophetic Themes/18. Dreams & Visions in the Last Days.md",
-    "III. Prophetic Themes/19. The Mantle of Elijah.md",
     "VII. Parables",
     "002 Kingdom Culture",
     "001 Sessions",
