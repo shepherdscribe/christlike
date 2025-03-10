@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4705afa4d334fdca",
+        "id": "4de95fc07576fac2",
         "type": "tabs",
         "children": [
           {
-            "id": "137a88f3387a01d0",
+            "id": "ccde50128aeeb7dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IV. Redemptive Themes/17. Valley.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "17. Valley"
+              "title": "New tab"
             }
           }
         ]
@@ -163,8 +159,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "137a88f3387a01d0",
+  "active": "ccde50128aeeb7dc",
   "lastOpenFiles": [
+    "I. Cosmic Themes & Spiritual Warfare/15. Partnership.md",
+    "I. Cosmic Themes & Spiritual Warfare/14. Restoration.md",
+    "I. Cosmic Themes & Spiritual Warfare/13. Fulfillment.md",
+    "I. Cosmic Themes & Spiritual Warfare/12. Gates.md",
+    "I. Cosmic Themes & Spiritual Warfare/2. Victory.md",
+    "I. Cosmic Themes & Spiritual Warfare/1. Messiah.md",
+    "I. Cosmic Themes & Spiritual Warfare/11. Soulties.md",
+    "I. Cosmic Themes & Spiritual Warfare/10. Courtroom.md",
+    "I. Cosmic Themes & Spiritual Warfare/9. Substance.md",
+    "I. Cosmic Themes & Spiritual Warfare/8. Deliverance.md",
+    "I. Cosmic Themes & Spiritual Warfare/7. Light.md",
+    "I. Cosmic Themes & Spiritual Warfare/6. Armor.md",
+    "I. Cosmic Themes & Spiritual Warfare/4. Lord.md",
+    "I. Cosmic Themes & Spiritual Warfare/3. Watchers.md",
+    "I. Cosmic Themes & Spiritual Warfare/5. Name.md",
+    "VI. Restoration & Eschatology/50. The Better Side of Understanding.md",
+    "II. Apostolic Themes/18. The Authority of the Believer.md",
+    "IV. Redemptive Themes/17. Valley.md",
     "IV. Redemptive Themes/9. Beauty.md",
     "IV. Redemptive Themes/18. Wedding.md",
     "IV. Redemptive Themes/16. Fish.md",
@@ -173,24 +187,6 @@
     "IV. Redemptive Themes/7. Firstfruit.md",
     "IV. Redemptive Themes/00 Structure for reference.md",
     "IV. Redemptive Themes/5. Kainos.md",
-    "IV. Redemptive Themes/15. Emmaus.md",
-    "IV. Redemptive Themes/14. Kingship.md",
-    "IV. Redemptive Themes/13. Jubilee.md",
-    "IV. Redemptive Themes/11. Injustice.md",
-    "IV. Redemptive Themes/17. Valley.md",
-    "IV. Redemptive Themes/12. Return.md",
-    "IV. Redemptive Themes/4. Father.md",
-    "IV. Redemptive Themes/6. Heirs.md",
-    "IV. Redemptive Themes/3. Covenant.md",
-    "IV. Redemptive Themes/2. Crown.md",
-    "IV. Redemptive Themes/1. Thread.md",
-    "III. Prophetic Themes/18. Dreams & Visions in the Last Days.md",
-    "III. Prophetic Themes/17. The Voice of the Lord.md",
-    "III. Prophetic Themes/32. Authenticity.md",
-    "III. Prophetic Themes/26. Dreams & Visions.md",
-    "II. Apostolic Themes/13. Paul’s Revelation of the Mystery.md",
-    "Presence.md",
-    "V. Shepherding Themes/43. Emotional Wisdom.md",
     "VII. Parables",
     "002 Kingdom Culture",
     "001 Sessions",
