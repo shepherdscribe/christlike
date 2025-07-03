@@ -1,0 +1,12 @@
+​Deuteronomy 32:8-9 describes how the Most High apportioned the nations among the "sons of God," reserving Israel as His own inheritance. This passage has variations across ancient manuscripts:​[Intertextual Bible+1QBible+1](https://intertextual.bible/text/deuteronomy-32.8-lxx-deuteronomy-32.8?utm_source=chatgpt.com)
+
+- **Septuagint (LXX):** "When the Most High divided the nations, when He separated the sons of Adam, He set the boundaries of the nations according to the number of the angels of God. And His people Jacob became the portion of the Lord, Israel was the line of His inheritance." ​[Reddit+4LDS Scripture Teachings+4QBible+4](https://www.ldsscriptureteachings.org/2018/05/deuteronomy-328-9-and-the-sons-of-god/?utm_source=chatgpt.com)
+    
+- **Dead Sea Scrolls (DSS):** "When Elyon gave the nations as an inheritance, when He separated the sons of man, He set the boundaries of the peoples according to the number of the sons of God. For Yahweh’s portion was His people; Jacob was the lot of His inheritance." ​[QBible+2LDS Scripture Teachings+2Reddit+2](https://www.ldsscriptureteachings.org/2018/05/deuteronomy-328-9-and-the-sons-of-god/?utm_source=chatgpt.com)
+    
+- **Masoretic Text (MT):** "When Elyon gave the nations their inheritance, when He divided all the sons of man, He set the boundaries of the peoples according to the number of the sons of Israel. For Yahweh’s portion was His people, Jacob was the lot of His inheritance." ​[LDS Scripture Teachings](https://www.ldsscriptureteachings.org/2018/05/deuteronomy-328-9-and-the-sons-of-god/?utm_source=chatgpt.com)
+    
+
+The Septuagint's phrase "angels of God" aligns with the Dead Sea Scrolls' "sons of God," suggesting that divine beings were assigned to oversee the nations, while Yahweh retained Israel as His special possession. This contrasts with the Masoretic Text's "sons of Israel," which may reflect a theological shift to emphasize Israel's central role. ​[en.wikipedia.org+1Logos Bible Study+1](https://en.wikipedia.org/wiki/Sons_of_God?utm_source=chatgpt.com)
+
+These textual differences have led scholars to explore how ancient Israel perceived divine governance and the nation's unique relationship with Yahweh.
